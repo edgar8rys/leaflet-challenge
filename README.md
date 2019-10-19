@@ -1,4 +1,10 @@
 # leaflet-challenge
-## Tasked with creating a geomap using leaflet
-We are analyzing a database with earthquake data.
-Create markers to visually represent each earthquake and size them according to magnitude.
+
+## Your Task
+Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+
+- Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+
+- Include popups that provide additional information about the earthquake when a marker is clicked.
+
+- Create a legend that will provide context for your map data.
